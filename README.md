@@ -1,3 +1,3 @@
 # IT-Security
 
-- [Glossary](https://github.com/FischerAndi/IT-Security/blob/master/Glossary/ITS_Glossary.html)
+- [Glossary](https://htmlpreview.github.io/?https://github.com/FischerAndi/IT-Security/blob/master/Glossary/ITS_Glossary.html)
